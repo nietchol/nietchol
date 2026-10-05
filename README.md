@@ -6,4 +6,4 @@
   - [osTicket: Prerequisites and Installation](https://github.com/nietchol/osTicket-Prerequisites-and-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/nietchol/post-install-config)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/nietchol/Configuring Active Directory with Azure VM)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/nietchol/Configuring-Active-Directory-with-Azure-VM)
